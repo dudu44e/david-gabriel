@@ -1,0 +1,42 @@
+Line 4 : label must start with a letter or reserved word can't be used as label 
+
+ Line 4: illegal input, not a command or a label
+
+Line 5 :no closure for brackets or no arguments has been recieved
+
+Line 6 :no closure for brackets or no arguments has been recieved
+
+Line 7 :not enough arguments for this command or illegal argument
+
+Line 8 :not enough arguments for this command or illegal argument
+
+ Line 10: illegal input, not a command or a label
+
+ Line 11 : illegal argument, number not in range 
+
+Line 11 :not enough arguments for this command or illegal argument
+
+ Line 12 : number out of range
+
+ Line 13: too few commas or arguments or illegal argument 
+
+Line 15 :not enough arguments for this command or illegal argument
+
+ Line 16: register must be a number 
+
+ Line 16: expected a register
+
+ Line 16: too few commas or arguments or illegal argument 
+
+ Line 17: illegal input, not a command or a label
+
+Line 18 :illegal label
+
+ Line 21: illegal input, not a command or a label
+
+ Line 22: illegal input, not a command or a label
+
+ Line 22: illegal input, not a command or a label
+
+ Line 23: illegal input, not a command or a label
+
